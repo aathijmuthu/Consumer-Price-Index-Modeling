@@ -14,6 +14,7 @@ The Consumer Price Index (CPI) is a measure of inflation, tracking changes in th
 # Dataset
 
 The dataset I analyzed included data starting from the 1950's and has columns for every basket of good. I will be using each of these baskets to make accurate predictions
+
 <img width="979" alt="image" src="https://github.com/aathijmuthu/Consumer-Price-Index-Modeling/assets/65832367/af8f54f4-6250-4180-9e64-d044d62305ad">
 
 # Workflow
@@ -30,9 +31,14 @@ The dataset I analyzed included data starting from the 1950's and has columns fo
 I developed a short demo of my model. This app is built with HTML, CSS, and Flask. Users can input a any year and the app will give CPI predictions and corresponding visualization based off of my model.
 
 User input page:
-<img width="854" alt="image" src="https://github.com/aathijmuthu/Consumer-Price-Index-Modeling/assets/65832367/c4734e4a-105b-497d-a3db-5962d7e157cc">
+
+
+<img width="846" alt="image" src="https://github.com/aathijmuthu/Consumer-Price-Index-Modeling/assets/65832367/89192232-9912-4068-b841-e8d20fd2fec8">
+
 
 Output of Model:
+
+
 <img width="923" alt="image" src="https://github.com/aathijmuthu/Consumer-Price-Index-Modeling/assets/65832367/dec273f6-a4e4-4b90-8d57-b2fa12f45dd7">
 
 # Conclusions
