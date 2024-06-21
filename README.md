@@ -9,7 +9,7 @@
 
 # Background & Dataset
 
-The Consumer Price Index (CPI) is a measure of inflation, tracking changes in the prices of goods and services over time. It reflects the average expenditure of consumers and is used by policymakers, economists, and businesses to assess economic trends. CPI's components include a representative "market basket" of goods, weighted to reflect consumer spending patterns. In this project, we employ linear regression to model and predict CPI prices, leveraging historical data and economic indicators to develop accurate forecasts. This endeavor enhances understanding of inflation dynamics and offers practical insights for economic forecasting and decision-making.
+The Consumer Price Index (CPI) is a measure of inflation, tracking changes in the prices of goods and services over time. It reflects the average expenditure of consumers and is used by policymakers, economists, and businesses to assess economic trends. CPI's components include a representative "market basket" of goods, weighted to reflect consumer spending patterns. In this project, I employed multiple linear regression to model and predict CPI prices, leveraging historical data and economic indicators to develop accurate forecasts. This endeavor enhances understanding of inflation dynamics and offers practical insights for economic forecasting and decision-making.
 
 # Dataset
 
