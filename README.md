@@ -1,5 +1,7 @@
 # Consumer-Price-Index-Modeling
- 
+
+ <img width="1273" alt="image" src="https://github.com/aathijmuthu/Consumer-Price-Index-Modeling/assets/65832367/8bab3e5c-015d-4730-a96f-a96e3f9aaf01">
+
 
 # Table of Contents
 * Background & Purpose
